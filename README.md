@@ -20,7 +20,7 @@ Linux supremacist.
 ## currently into
 
 - going deeper into Haskell
-- learning proper TypeScript (gotta get a j\*b)
+- learning proper TypeScript
 
 ---
 
